@@ -4,7 +4,7 @@
         <div class="swiper-slide">
 
             <div class="dark-overlay absolute -z-10 top-0 left-0 h-full w-full overflow-hidden">
-                    <img class="w-full h-full bg-cover object-cover" src="{{ asset('/assets/img/hero/principal-1.jpg') }}" alt="Hero Background Image">
+                    <img class="w-full h-full bg-cover object-cover" src="{{ asset('/assets/img/hero/principal-1.webp') }}" alt="Hero Background Image">
             </div>
 
             <div class="text-white text-center flex flex-col justify-center gap-3 h-full z-10 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
@@ -16,7 +16,7 @@
                 </h2>
                 <span class="w-[21rem] lg:w-[41rem]  mx-auto border-b-4 border-main"></span>
                 <p class="text-lg px-10">
-                    Nuestros espacios son únicos y diferentes entre sí, diseñados por artistas regionales para que encuentres no sólo un área agradable estéticamente, sino una experiencia completa de descanso e inmersión en el arte.
+                    Ubicado en una de las zonas más reconocidas y que continúa siendo de los destinos favoritos de la ciudad por su ambiente moderno, sus restaurantes, oficinas y boutiques de alto nivel al poniente de la ciudad, nuestro segundo hotel abre sus puertas en 2018 en la colonia Providencia. 
                 </p>
                 <a target="_blanck" href="{{ route('rengin.direct-booking') }}">
                     <button class="cta-main-button w-80 bg-main mx-auto mt-3">

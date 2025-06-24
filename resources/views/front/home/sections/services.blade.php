@@ -2,12 +2,11 @@
     <div class="p-8">
 
         <div class="flex justify-center items-center flex-col">
-            <h3 class="text-3xl font-bold text-dark-text">Hotel FCH Minerva</h3>
+            <h3 class="text-3xl font-bold text-dark-text">Hotel FCH Providencia</h3>
             <span class="border-b-4 border-main block w-80 my-2"></span>
             <p class="w-1/2 text-center text-dark-text">
-                Reinventamos el concepto del “Hotel Boutique” para entregarte una estancia placentera y siempre a tu medida. 
-                Sin importar el motivo de tu viaje, en nuestro Adults Only hotel creamos una experiencia de hospedaje especialmente
-                pensada para ti y tus distintas necesidades mientras tú te encargas de tus distintas ocupaciones.
+                Estas son solo algunas de las amenidades y servicios que tenemos a tu disponibilidad y alcance al hospedarte en FCH Hotels.  
+Descubre todo lo que podemos hacer por ti, contáctanos o pregunta en nuestro Front Desk directamente.
             </p>
         </div>
 
@@ -18,34 +17,73 @@
                 <img class="w-full" src="{{ asset('assets/icons/fork-knife-outlined.svg') }}" alt="service">
                 </div>
                 <div>
-                    <p class="text-dark-text">Desayuno</p>
+                    <p class="text-dark-text">Restaurante</p>
                 </div>
             </div>
         
             <div class="flex items-center">
                 <div class="w-[90px] pr-4">
-                    <img class="w-full" src="{{ asset('assets/icons/wifi.png') }}" alt="Icono Wifi">
+                    <picture>
+                        <svg width="64px" height="64px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M1.33309 8.07433C0.92156 8.44266 0.886539 9.07485 1.25487 9.48638C1.62319 9.89791 2.25539 9.93293 2.66691 9.5646L1.33309 8.07433ZM21.3331 9.5646C21.7446 9.93293 22.3768 9.89791 22.7451 9.48638C23.1135 9.07485 23.0784 8.44266 22.6669 8.07433L21.3331 9.5646ZM12 19C11.4477 19 11 19.4477 11 20C11 20.5523 11.4477 21 12 21V19ZM12.01 21C12.5623 21 13.01 20.5523 13.01 20C13.01 19.4477 12.5623 19 12.01 19V21ZM14.6905 17.04C15.099 17.4116 15.7315 17.3817 16.1031 16.9732C16.4748 16.5646 16.4448 15.9322 16.0363 15.5605L14.6905 17.04ZM18.0539 13.3403C18.4624 13.7119 19.0949 13.682 19.4665 13.2734C19.8381 12.8649 19.8082 12.2324 19.3997 11.8608L18.0539 13.3403ZM7.96372 15.5605C7.55517 15.9322 7.52524 16.5646 7.89687 16.9732C8.2685 17.3817 8.90095 17.4116 9.3095 17.04L7.96372 15.5605ZM4.60034 11.8608C4.19179 12.2324 4.16185 12.8649 4.53348 13.2734C4.90511 13.682 5.53756 13.7119 5.94611 13.3403L4.60034 11.8608ZM2.66691 9.5646C5.14444 7.34716 8.41371 6 12 6V4C7.90275 4 4.16312 5.54138 1.33309 8.07433L2.66691 9.5646ZM12 6C15.5863 6 18.8556 7.34716 21.3331 9.5646L22.6669 8.07433C19.8369 5.54138 16.0972 4 12 4V6ZM12 21H12.01V19H12V21ZM12 16C13.0367 16 13.9793 16.3931 14.6905 17.04L16.0363 15.5605C14.9713 14.5918 13.5536 14 12 14V16ZM12 11C14.3319 11 16.4546 11.8855 18.0539 13.3403L19.3997 11.8608C17.4466 10.0842 14.8487 9 12 9V11ZM9.3095 17.04C10.0207 16.3931 10.9633 16 12 16V14C10.4464 14 9.02872 14.5918 7.96372 15.5605L9.3095 17.04ZM5.94611 13.3403C7.54544 11.8855 9.66815 11 12 11V9C9.15127 9 6.55344 10.0842 4.60034 11.8608L5.94611 13.3403Z" fill="#000000"></path> </g></svg>
+                    </picture>
                 </div>
                 <div>
                     <p class="text-dark-text">WiFi <br>Gratis</p>
                 </div>
             </div>
-        
+
             <div class="flex items-center">
                 <div class="w-[90px] pr-4">
-                    <img class="w-full"src="{{ asset('assets/icons/air.png') }}" alt="service">
+                    <picture>
+                        <svg version="1.1" id="Uploaded to svgrepo.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64px" height="64px" viewBox="0 0 32 32" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <style type="text/css"> .linesandangles_een{fill:#111918;} </style> <path class="linesandangles_een" d="M6,3v26h20V3H6z M24,5v4H8V5H24z M8,27V11h16v16H8z M16,12c-3.866,0-7,3.134-7,7s3.134,7,7,7 c3.866,0,7-3.134,7-7S19.866,12,16,12z M16,24c-2.757,0-5-2.243-5-5s2.243-5,5-5s5,2.243,5,5S18.757,24,16,24z M11,8H9V6h2V8z M14,8 h-2V6h2V8z M16,15v2c-1.103,0-2,0.897-2,2h-2C12,16.794,13.794,15,16,15z"></path> </g></svg>
+                    </picture>
                 </div>
                 <div>
-                    <p class="text-dark-text">Aire acondicionado
+                    <p class="text-dark-text">Lavanderia y <br>Tintoreria</p>
                 </div>
             </div>
         
             <div class="flex items-center">
                 <div class="w-[90px] pr-4">
-                    <svg class="w-full" fill="#747474" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M216 64c-13.3 0-24 10.7-24 24s10.7 24 24 24h16v33.3C119.6 157.2 32 252.4 32 368H80c0-97.2 78.8-176 176-176s176 78.8 176 176h48c0-115.6-87.6-210.8-200-222.7V112h16c13.3 0 24-10.7 24-24s-10.7-24-24-24H256 216zM24 400c-13.3 0-24 10.7-24 24s10.7 24 24 24H488c13.3 0 24-10.7 24-24s-10.7-24-24-24H24z"/></svg>
+                    <picture>
+                        <svg fill="#000000" height="64px" width="64px" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-6 -6 72.00 72.00" xml:space="preserve" stroke="#000000" stroke-width="0.0006000000000000001"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.24"></g><g id="SVGRepo_iconCarrier"> <g> <g> <path d="M4.037,51h28c1.35,0,2.621-0.374,3.675-1.082l17.121-17.094C53.585,32.071,54,31.067,54,29.996 c0-1.07-0.415-2.075-1.168-2.828C52.079,26.415,51.074,26,50.004,26c-1.071,0-2.075,0.415-2.828,1.168L33.959,40.385 l12.667-24.931c0.011-0.023,0.01-0.047,0.019-0.07c0.623-0.709,1.718-0.89,2.612-0.372c0.495,0.286,0.854,0.738,1.008,1.273 c0.149,0.521,0.087,1.059-0.177,1.516c-0.091,0.157-0.134,0.329-0.134,0.498c0,0.346,0.179,0.683,0.5,0.868 c0.477,0.275,1.089,0.112,1.366-0.366c0.552-0.954,1.82-1.258,2.832-0.674c1.028,0.594,1.417,1.854,0.865,2.809 c-0.276,0.479-0.112,1.09,0.366,1.366c0.157,0.091,0.329,0.134,0.499,0.134c0.346,0,0.682-0.179,0.867-0.5 c0.001-0.001,0.001-0.003,0.002-0.004c1.791-3.104,2.223-6.674,1.214-10.051c-0.99-3.315-3.266-6.14-6.407-7.954 c-6.555-3.784-14.543-1.805-18.189,4.505c-0.001,0.002-0.001,0.003-0.002,0.004c-0.276,0.479-0.112,1.09,0.366,1.366 c0.479,0.276,1.089,0.111,1.366-0.366c0.551-0.956,1.836-1.25,2.865-0.655c0.496,0.286,0.854,0.738,1.008,1.273 c0.15,0.521,0.088,1.061-0.175,1.517c-0.091,0.157-0.134,0.329-0.134,0.499c0,0.346,0.179,0.682,0.5,0.867 c0.477,0.275,1.089,0.112,1.366-0.366c0.552-0.955,1.821-1.258,2.833-0.674c0.495,0.286,0.853,0.738,1.007,1.273 c0.15,0.521,0.088,1.06-0.175,1.516c-0.072,0.124-0.106,0.258-0.12,0.393L30.386,43H4.037c-2.206,0-4,1.794-4,4S1.831,51,4.037,51 z M44.862,10.163c-1.075-0.62-2.311-0.713-3.391-0.355c-0.021-0.103-0.047-0.206-0.076-0.309c-0.298-1.035-0.984-1.906-1.93-2.452 l0,0c-0.458-0.264-0.943-0.434-1.433-0.516c3.494-2.924,8.635-3.41,13.028-0.873c4.394,2.537,6.543,7.231,5.758,11.72 c-0.315-0.384-0.706-0.72-1.164-0.984c-0.662-0.382-1.385-0.563-2.094-0.563c-0.443,0-0.881,0.07-1.296,0.208 c-0.021-0.103-0.047-0.206-0.076-0.309c-0.299-1.034-0.983-1.905-1.93-2.451c-1.076-0.62-2.312-0.713-3.391-0.355 c-0.021-0.103-0.047-0.206-0.076-0.309C46.493,11.58,45.808,10.71,44.862,10.163z M4.037,45h28.135L48.59,28.582 c0.749-0.752,2.075-0.75,2.828,0C51.793,28.958,52,29.46,52,29.996c0,0.537-0.206,1.039-0.582,1.414L34.52,48.308 C33.811,48.761,32.955,49,32.037,49h-28c-1.103,0-2-0.897-2-2S2.934,45,4.037,45z"></path> <path d="M58.362,54.948L55.414,52l-8.5-8.5l12.793-12.793c0.391-0.391,0.391-1.023,0-1.414s-1.023-0.391-1.414,0L35.586,52H1H0v5 h57.513c0.022,0,0.042-0.008,0.064-0.01l0.717,0.717C58.488,57.902,58.744,58,59,58s0.512-0.098,0.707-0.293 c0.391-0.391,0.391-1.023,0-1.414L58.362,54.948z M45.5,44.914L52.586,52H38.414L45.5,44.914z M2,55v-1h34.414h18.172l1,1H2z"></path> <path d="M7,14h2.069c0.183,1.458,0.759,2.792,1.619,3.898l-1.467,1.466c-0.391,0.391-0.391,1.023,0,1.414 c0.195,0.195,0.451,0.293,0.707,0.293s0.512-0.098,0.707-0.293l1.467-1.466c1.106,0.86,2.44,1.436,3.897,1.619V23 c0,0.553,0.448,1,1,1s1-0.447,1-1v-2.069c1.457-0.183,2.791-0.759,3.897-1.619l1.467,1.466c0.195,0.195,0.451,0.293,0.707,0.293 s0.512-0.098,0.707-0.293c0.391-0.391,0.391-1.023,0-1.414l-1.467-1.466c0.86-1.106,1.436-2.44,1.619-3.898H27 c0.552,0,1-0.447,1-1s-0.448-1-1-1h-2.069c-0.183-1.458-0.759-2.792-1.619-3.898l1.467-1.466c0.391-0.391,0.391-1.023,0-1.414 s-1.023-0.391-1.414,0l-1.467,1.466c-1.106-0.86-2.44-1.436-3.897-1.619V3c0-0.553-0.448-1-1-1s-1,0.447-1,1v2.069 c-1.457,0.183-2.791,0.759-3.897,1.619l-1.467-1.466c-0.391-0.391-1.023-0.391-1.414,0s-0.391,1.023,0,1.414l1.467,1.466 C9.828,9.208,9.252,10.542,9.069,12H7c-0.552,0-1,0.447-1,1S6.448,14,7,14z M17,7c3.309,0,6,2.691,6,6s-2.691,6-6,6s-6-2.691-6-6 S13.691,7,17,7z"></path> </g> </g> </g></svg>
+                    </picture>
                 </div>
                 <div>
-                    <p class="text-dark-text">Servicio a la habitación</p>
+                    <p class="text-dark-text">Terraza</p>
+                </div>
+            </div>
+
+            <div class="flex items-center">
+                <div class="w-[90px] pr-4">
+                    <picture>
+                        <svg version="1.1" id="Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32" xml:space="preserve" width="64px" height="64px" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <style type="text/css"> .st0{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} </style> <path class="st0" d="M26.9,4.5c-3.2-1.3-7,0.3-8.3,3.5c-0.5,1.1-0.6,2.3-0.5,3.4c0.4,3.3,0.1,6.7-1.2,9.7l-0.6,1.3 c-0.9,2,0,4.4,2,5.3c2,0.9,4.3,0,5.2-2.1l1.3-3c1.3-2.9,3-5.6,4.9-8.1c0.3-0.4,0.5-0.8,0.8-1.3C31.9,9.8,30.3,5.8,26.9,4.5z"></path> <path class="st0" d="M5.1,6.5c3.2-1.3,7,0.3,8.3,3.5c0.5,1.1,0.6,2.3,0.5,3.4c-0.4,3.3-0.1,6.7,1.2,9.7l0.6,1.3c0.9,2,0,4.4-2,5.3 c-2,0.9-4.3,0-5.2-2.1l-1.3-3c-1.3-2.9-3-5.6-4.9-8.1c-0.3-0.4-0.5-0.8-0.8-1.3C0.1,11.8,1.7,7.8,5.1,6.5z"></path> <path class="st0" d="M18.3,14.1c1.7-0.2,3.3-1.2,4.3-2.6l1.9-2.6l0,0c-0.5,3.1,1.3,6,4.1,7.1"></path> <path class="st0" d="M13.7,16.4c-2-0.2-3.9-1.3-5.1-3l-2.1-2.9l0,0c0.5,2.9-0.9,5.8-3.3,7.3"></path> </g></svg>
+                    </picture>
+                </div>
+                <div>
+                    <p class="text-dark-text">Alberca</p>
+                </div>
+            </div>
+
+            <div class="flex items-center">
+                <div class="w-[90px] pr-4">
+                    <picture>
+                        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64px" height="64px" viewBox="0 0 45 32" enable-background="new 0 0 45 32" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path fill="#000000" d="M4.5,32h36c2.481,0,4.5-2.019,4.5-4.5c0-0.276-0.224-0.5-0.5-0.5H41V2.5C41,1.122,39.878,0,38.5,0h-32 C5.122,0,4,1.122,4,2.5V27H0.5C0.224,27,0,27.224,0,27.5C0,29.981,2.019,32,4.5,32z M5,2.5C5,1.673,5.673,1,6.5,1h32 C39.327,1,40,1.673,40,2.5V27H5V2.5z M43.964,28c-0.243,1.694-1.704,3-3.464,3h-36c-1.76,0-3.221-1.306-3.464-3H43.964z"></path> <path fill="#000000" d="M35.5,4h-26C8.673,4,8,4.673,8,5.5v17C8,23.327,8.673,24,9.5,24h26c0.827,0,1.5-0.673,1.5-1.5v-17 C37,4.673,36.327,4,35.5,4z M36,22.5c0,0.276-0.224,0.5-0.5,0.5h-26C9.224,23,9,22.776,9,22.5v-17C9,5.224,9.224,5,9.5,5h26 C35.776,5,36,5.224,36,5.5V22.5z"></path> </g> </g></svg>
+                    </picture>
+                </div>
+                <div>
+                    <p class="text-dark-text">Business Center</p>
+                </div>
+            </div>
+
+            <div class="flex items-center">
+                <div class="w-[90px] pr-4">
+                    <picture>
+                        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64px" height="64px" viewBox="0 0 45 32" enable-background="new 0 0 45 32" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path fill="#000000" d="M4.5,32h36c2.481,0,4.5-2.019,4.5-4.5c0-0.276-0.224-0.5-0.5-0.5H41V2.5C41,1.122,39.878,0,38.5,0h-32 C5.122,0,4,1.122,4,2.5V27H0.5C0.224,27,0,27.224,0,27.5C0,29.981,2.019,32,4.5,32z M5,2.5C5,1.673,5.673,1,6.5,1h32 C39.327,1,40,1.673,40,2.5V27H5V2.5z M43.964,28c-0.243,1.694-1.704,3-3.464,3h-36c-1.76,0-3.221-1.306-3.464-3H43.964z"></path> <path fill="#000000" d="M35.5,4h-26C8.673,4,8,4.673,8,5.5v17C8,23.327,8.673,24,9.5,24h26c0.827,0,1.5-0.673,1.5-1.5v-17 C37,4.673,36.327,4,35.5,4z M36,22.5c0,0.276-0.224,0.5-0.5,0.5h-26C9.224,23,9,22.776,9,22.5v-17C9,5.224,9.224,5,9.5,5h26 C35.776,5,36,5.224,36,5.5V22.5z"></path> </g> </g></svg>
+                    </picture>
+                </div>
+                <div>
+                    <p class="text-dark-text">Transporte a Aeropuerto</p>
                 </div>
             </div>
         

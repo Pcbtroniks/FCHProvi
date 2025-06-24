@@ -23,11 +23,11 @@
                     <div class="p-6 pb-4 ">
                         
                         <h3 class="font-bold mb-3 text-xl">
-                            Estándar King
+                            Suite Sencilla
                         </h3>
                         
                         <p class="text-sm leading-6">
-                            Esta habitación doble cuenta con artículos de aseo gratuitos, baño privado con ducha, armario, TV de pantalla plana y 1 cama.
+                            Si requiere compartir habitación nuestra Suite Doble es su mejor opción, con dos camas dobles cada huésped disfruta de su propio espacio y del mejor descanso sin perturbación por parte de su acompañante.
                         </p>
                         
                         <ul class="flex my-3 gap-4">
@@ -58,11 +58,11 @@
                     <div class="p-6 pb-4 ">
                         
                         <h3 class="font-bold mb-3 text-xl">
-                            Estándar doble
+                            Suite Doble
                         </h3>
                         
                         <p class="text-sm leading-6">
-                            Esta habitación doble cuenta con 2 camas individuales, armario, TV de pantalla plana y baño privado con ducha y artículos de aseo gratuitos.
+                            Si requiere compartir habitación nuestra Suite Doble es su mejor opción, con dos camas dobles cada huésped disfruta de su propio espacio y del mejor descanso sin perturbación por parte de su acompañante.
                         </p>
                         
                         <ul class="flex my-3 gap-4">
@@ -97,7 +97,7 @@
                         </h3>
                         
                         <p class="text-sm leading-6">
-                            Esta habitación triple cuenta con artículos de aseo gratuitos, baño privado con ducha, armario, TV de pantalla plana y 3 camas.
+                            Nuestra suite estrella, la más amplia. Con un gran baño con tina de hidromasaje y servicios especiales que no encontrarás en las demás habitaciones.
                         </p>
                         
                         <ul class="flex my-3 gap-4">
@@ -128,11 +128,11 @@
                     <div class="p-6 pb-4 ">
                         
                         <h3 class="font-bold mb-3 text-xl">
-                            Urban Suite
+                            Suite Junior Sencilla
                         </h3>
                         
                         <p class="text-sm leading-6">
-                            Esta habitación triple cuenta con artículos de aseo gratuitos, baño privado con ducha, armario, TV de pantalla plana y 3 camas.
+                            Encuentre más espacio y mayor comodidad en nuestras Suite Junior Sencilla, pase una noche de descanso plena en una amplia cama, tome un “break”, disfrute de un café en los sillones particulares de ésta habitación y deléitese con todas las amenidades especiales que FCH Hotels pone a su alcance.
                         </p>
                         
                         <ul class="flex my-3 gap-4">
