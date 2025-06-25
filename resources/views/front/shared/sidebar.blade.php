@@ -19,10 +19,12 @@
                 <a class="text-lg font-light" href="{{ route('rooms') }}"><p class="p-4">Habitaciones</p></a>
             </li>
 
-
-
             <li class="relative hover:bg-main-light hover:text-dark text-dark-medium border-black border-opacity-30 border-b cursor-pointer transition">
                 <a class="text-lg font-light" href="{{ route('services') }}"><p class="p-4">Servicios</p></a>
+            </li>
+
+            <li class="relative hover:bg-main-light hover:text-dark text-dark-medium border-black border-opacity-30 border-b cursor-pointer transition">
+                <a class="text-lg font-light" href="{{ route('desing-and-art') }}"><p class="p-4">Arte y Diseño</p></a>
             </li>
 
             <li class="relative hover:bg-main-light hover:text-dark text-dark-medium border-black border-opacity-30 border-b cursor-pointer transition">

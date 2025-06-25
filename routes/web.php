@@ -22,6 +22,8 @@ Route::get('event-contact', [FrontController::class, 'eventContact'])->name('eve
 
 Route::post('event-contact', [ContactController::class, 'sendEventContactEmail'])->name('event.contact.send');
 
+Route::get('desing-and-art', [FrontController::class, "desingArt"])->name("desing-and-art");
+
 Route::get('restaurant-los-alcatraces-menu', [FrontController::class, 'restaurantMenu'])->name('restaurantMenu');
 
 Route::get('rengin-direct-booking', function(){
