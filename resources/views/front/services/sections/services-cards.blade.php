@@ -1,7 +1,5 @@
 
 <section>
-
-
     <div class="w-full p-4 sm:px-10 mt-8">
 
         {{-- Rooms --}}
@@ -13,7 +11,7 @@
 
                     <div class="h-52 md:h-72 lg:h-full min-h-5 basis-1/3 relative mb-8 md:mb-20 lg:mb-8">
                         <picture>
-                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/rooms/simple.jpeg') }}" alt="Habitaciones Hotel JA Centro">
+                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/rooms/simple.jpg') }}" alt="Habitaciones Hotel JA Centro">
                         </picture>
 
                         <div class="w-20 h-20 rounded-full bg-main p-4 absolute left-1/2 -translate-x-1/2 -bottom-16 md:-bottom-28 lg:-bottom-10">
@@ -212,7 +210,7 @@
 
                         <h2 class="text-2xl font-bold my-4 sm:my-2 capitalize">Aire aconidicionado</h2>
 
-                        <div>
+                        <div>a
 
                             <p class="text-sm font-bold text-dark-medium leading-6">
                                 Disponible para ti

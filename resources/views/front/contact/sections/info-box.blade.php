@@ -9,17 +9,17 @@
             <ul class="text-sm font-bold flex flex-col gap-10 text-center">
                 <li>
                     <p>
-                        Avenida Miguel Hidalgo y Costilla #656, C.P. 44100 Guadalajara, Jalisco, México
+                        Calle Quebec 854 Col. Prados Providencia Guadalajara, Jalisco México 44670.
                     </p>
                 </li>
                 <li>
                     <p>
-                        +52 (33) 3658 1051
+                        +52 (33) 3109 0966
                     </p>
                 </li>
                 <li>
                     <p>
-                        recepcion@hoteljacentro.com
+                        providencia@fch-hotels.com
                     </p>
                 </li>
                 <li>

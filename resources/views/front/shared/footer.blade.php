@@ -20,20 +20,26 @@
             <div class="h-8"></div>
 
             <div class="flex flex-col gap-10 text-left font-bold">
-                <a class="flex gap-2" href="tel:+523333113958">
+                <a class="flex gap-2" href="tel:+523331090966">
                     <img src="{{ asset('assets/icons/call-outline.svg') }}" alt="Phone Icon">
                     <div class="flex flex-col justify-center">
-                        <span>+52 (33) 3311 3958</span>
+                        <span>+52 (33) 3109 0966</span>
                     </div>
                 </a>
-                <a class="flex gap-2" href="mailto:recepcion@fchminerva.com">
+                <a class="flex gap-2" href="tel:+523331090916">
+                    <img src="{{ asset('assets/icons/call-outline.svg') }}" alt="Phone Icon">
+                    <div class="flex flex-col justify-center">
+                        <span>+52 (33) 3109 0916</span>
+                    </div>
+                </a>
+                <a class="flex gap-2" href="mailto:providencia@fch-hotels.com">
                     <img src="{{ asset('assets/icons/services/mail-outline.svg') }}" alt="Location Icon">
-                    <span>recepcion@fchminerva.com</span>
+                    <span>providencia@fch-hotels.com</span>
                 </a>
                 <a class="flex gap-2" href="#">
                     <img src="{{ asset('assets/icons/location-outline.svg') }}" alt="Location Icon">
                     <span>
-                        Av. José María Morelos 2070, Arcos Vallarta, 44130 Guadalajara, Jal
+                        Calle Quebec 854 Col. Prados Providencia Guadalajara, Jalisco México 44670.
                     </span>
                 </a>
             </div>
@@ -57,8 +63,8 @@
         <p class="text-white/50 text-sm">
             &copy; 
             <script>document.write(new Date().getFullYear())</script>
-            <noscript>2023</noscript>
-            Hotel JA Centro. Todos los derechos reservados.
+            <noscript>2025</noscript>
+            Hotel FCH Providencia. Todos los derechos reservados.
             Powered by <a href="https://pcbtroniks.com" target="_blank" class="font-bold">Pcbtroniks</a>.
         </p>
     </div>
