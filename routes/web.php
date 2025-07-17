@@ -27,5 +27,5 @@ Route::get('desing-and-art', [FrontController::class, "desingArt"])->name("desin
 Route::get('restaurant-los-alcatraces-menu', [FrontController::class, 'restaurantMenu'])->name('restaurantMenu');
 
 Route::get('rengin-direct-booking', function(){
-    return redirect()->route('contact');
+    return redirect('https://hotels.cloudbeds.com/es/reservation/7DB90L');
 })->name('rengin.direct-booking');
