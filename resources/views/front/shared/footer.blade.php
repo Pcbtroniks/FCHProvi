@@ -8,7 +8,7 @@
 
         <div class="sm:order-3">
             <ul class="grid grid-cols-2 gap-7">
-                <li><a target="_blank" href="#"><img src="{{ asset('assets/icons/socials/WhatsApp Inc.svg') }}" alt="WhatsApp"></a></li>
+                <li><a target="_blank" href="tel:+523331090916"><img src="{{ asset('assets/icons/socials/WhatsApp Inc.svg') }}" alt="WhatsApp"></a></li>
                 <li><a target="_blank" href="#"><img src="{{ asset('assets/icons/socials/Facebook.svg') }}" alt="Facebook"></a></li>
                 <li class="col-span-2 mx-auto w-12"><a target="_blank" href="#"><img src="{{ asset('assets/icons/socials/Tiktok.svg') }}" alt="Tiktok"></a></li>
             </ul>
