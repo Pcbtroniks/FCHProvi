@@ -24,7 +24,8 @@ Route::post('event-contact', [ContactController::class, 'sendEventContactEmail']
 
 Route::get('desing-and-art', [FrontController::class, "desingArt"])->name("desing-and-art");
 
-Route::get('restaurant-los-alcatraces-menu', [FrontController::class, 'restaurantMenu'])->name('restaurantMenu');
+Route::get('restaurant-ananas', [FrontController::class, "resAnanas"])->name('restaurant-ananas');
+Route::get('restaurant-granada', [FrontController::class, "resGranada"])->name('restaurant-granada');
 
 Route::get('rengin-direct-booking', function(){
     return redirect('https://hotels.cloudbeds.com/es/reservation/7DB90L');

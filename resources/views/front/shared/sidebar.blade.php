@@ -3,7 +3,7 @@
         <ul>
             
             <li class="relative border-black border-opacity-30 border-b-2">
-                <div class="bg-main w-full h-28 inner-shadow">
+                <div class="bg-salmon w-full h-28 inner-shadow">
                     <img class="w-32 mx-auto" src="{{ asset('assets/logow.png') }}" alt="Logo">
                     <br>
                     <br>
@@ -20,11 +20,19 @@
             </li>
 
             <li class="relative hover:bg-main-light hover:text-dark text-dark-medium border-black border-opacity-30 border-b cursor-pointer transition">
-                <a class="text-lg font-light" href="{{ route('services') }}"><p class="p-4">Servicios</p></a>
+                <a class="text-lg font-light" href="{{ route('desing-and-art') }}"><p class="p-4">Arte y Diseño</p></a>
+            </li>
+
+                        <li class="relative hover:bg-main-light hover:text-dark text-dark-medium border-black border-opacity-30 border-b cursor-pointer transition hover:bg-blue hover:text-white" id="liGourmet">
+                <button class="text-lg font-light w-full text-left p-4 toggle-submenu" data-target="submenu-gourmet">Restaurantes</button>
+                <ul id="submenu-gourmet" class="hidden ml-4 bg-salmon text-white font-bold">
+                    <li><a href="/restaurant-ananas" class="block p-4 hover:bg-pink-600 ">Restaurante Ananás</a></li>
+                    <li><a href="/restaurant-granada" class="block p-4 hover:bg-pink-600 ">Restaurante Granada</a></li>
+                </ul>
             </li>
 
             <li class="relative hover:bg-main-light hover:text-dark text-dark-medium border-black border-opacity-30 border-b cursor-pointer transition">
-                <a class="text-lg font-light" href="{{ route('desing-and-art') }}"><p class="p-4">Arte y Diseño</p></a>
+                <a class="text-lg font-light" href="{{ route('services') }}"><p class="p-4">Servicios</p></a>
             </li>
 
             <li class="relative hover:bg-main-light hover:text-dark text-dark-medium border-black border-opacity-30 border-b cursor-pointer transition">
